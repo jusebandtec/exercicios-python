@@ -1,0 +1,5 @@
+numero1 = int(input("Primeira nota: "))
+numero2 = int(input("Segunda nota: "))
+numero3 = int(input("Terceira nota: "))
+numero4 = int(input("Quarta nota: "))
+print((numero1 + numero2 + numero3 + numero4) / 4)

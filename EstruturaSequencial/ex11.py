@@ -1,0 +1,6 @@
+numeroInt1 = int(input("Digite o primeiro numero inteiro: "))
+numeroInt2 = int(input("Digite o segundo numero inteiro: "))
+numeroReal = float(input("Digite o numero real: "))
+print((numeroInt1 * 2) * (numeroInt2 / 2))
+print((numeroInt1 * 3) + numeroReal)
+print(numeroReal ** 3)
