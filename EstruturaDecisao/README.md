@@ -8,10 +8,10 @@
 
 4 - [Faça um Programa que verifique se uma letra digitada é vogal ou consoante.](https://github.com/jusebandtec/exercicios-python/blob/main/EstruturaDecisao/ex4.py)
 
-5 - [Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar:
+5 - [Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar:](https://github.com/jusebandtec/exercicios-python/blob/main/EstruturaDecisao/ex5.py)
   * a. A mensagem "Aprovado", se a média alcançada for maior ou igual a sete;
   * b. A mensagem "Reprovado", se a média for menor do que sete;
-  * c. A mensagem "Aprovado com Distinção", se a média for igual a dez.](https://github.com/jusebandtec/exercicios-python/blob/main/EstruturaDecisao/ex5.py).
+  * c. A mensagem "Aprovado com Distinção", se a média for igual a dez.
   
 6 - [Faça um Programa que leia três números e mostre o maior deles.](https://github.com/jusebandtec/exercicios-python/blob/main/EstruturaDecisao/ex6.py)
 
